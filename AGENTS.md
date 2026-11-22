@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+Keep the ERP prototype client-side with local sample data until live records or integrations are explicitly requested, avoiding unnecessary service costs.
